@@ -1,4 +1,5 @@
 # School Website and Student & Teacher Management System
+![Alt text](https://drive.google.com/uc?id=1-jdE6qJxIid4MTHlu6Ygkfly5UdiPMPj)
 
 <p align="center">
   <a href="https://laravel.com" target="_blank">
