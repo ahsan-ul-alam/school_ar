@@ -35,5 +35,11 @@ Follow the steps below to install and run the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/school-ar.git
+   git clone https://github.com/ahsan-ul-alam/school-ar.git
    cd school-ar
+   ```
+```php
+   composer install
+   php artisan migrate
+   php artisan serve
+```
