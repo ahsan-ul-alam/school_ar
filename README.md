@@ -3,7 +3,7 @@
 
 ## developed By Ahsan Ul Alam
 <hr>
-# About the Project
+#About the Project
 
 This is a Laravel-based project designed to manage students, teachers, and school-related functionalities. It includes various features such as:
 
